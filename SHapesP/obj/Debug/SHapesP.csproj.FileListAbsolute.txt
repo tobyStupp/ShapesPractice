@@ -1,0 +1,10 @@
+C:\Users\toby\source\repos\SHapesP\SHapesP\obj\Debug\SHapesP.csprojAssemblyReference.cache
+C:\Users\toby\source\repos\SHapesP\SHapesP\obj\Debug\SHapesP.Form1.resources
+C:\Users\toby\source\repos\SHapesP\SHapesP\obj\Debug\SHapesP.Properties.Resources.resources
+C:\Users\toby\source\repos\SHapesP\SHapesP\obj\Debug\SHapesP.csproj.GenerateResource.cache
+C:\Users\toby\source\repos\SHapesP\SHapesP\obj\Debug\SHapesP.csproj.CoreCompileInputs.cache
+C:\Users\toby\source\repos\SHapesP\SHapesP\bin\Debug\SHapesP.exe.config
+C:\Users\toby\source\repos\SHapesP\SHapesP\bin\Debug\SHapesP.exe
+C:\Users\toby\source\repos\SHapesP\SHapesP\bin\Debug\SHapesP.pdb
+C:\Users\toby\source\repos\SHapesP\SHapesP\obj\Debug\SHapesP.exe
+C:\Users\toby\source\repos\SHapesP\SHapesP\obj\Debug\SHapesP.pdb
