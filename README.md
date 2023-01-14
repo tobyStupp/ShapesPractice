@@ -1,0 +1,2 @@
+# ShapesPractice
+Example of abstgract
